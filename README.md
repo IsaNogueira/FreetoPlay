@@ -7,8 +7,8 @@ Para completar o desafio, decidi por usar Javascript, React e Axios, por simples
 #Rodando o projeto
 
   -> Depois de clonar o repositório
-    <npm i>
-    <npm start>
+    npm i
+    npm start
     
 O projeto é bem básico, porém cumpre com todos os requisitos, apenas não inicializei a busca pela memória RAM pois fiquei com algumas dúvidas sobre como bater a URL da Api.
 
