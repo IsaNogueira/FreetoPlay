@@ -1,4 +1,4 @@
-import { getInstance } from "../services/api2";
+import { getInstance } from "../services/api";
 
 export async function getGamesByFilter(category, platform) {
     let url = '/games?';

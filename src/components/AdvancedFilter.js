@@ -14,7 +14,16 @@ const categories = [
     {value:'racing', text: "Racing"},
     {value:'fighting', text: "Fighting"},
     {value:'social', text: "Social"},
-    {value:'sports', text: "Sports"}
+    {value:'sports', text: "Sports"},
+    {value:'sandbox', text: "SandBox"},
+    {value:'open-world', text: "Open World"},
+    {value:'pvp', text: "pvp"},
+    {value:'pve', text: "pve"},
+    {value:'pixel', text: "Pixel"},
+    {value:'voxel', text: "Voxel"},
+    {value:'zombie', text: "Zombie"},
+    {value:'person', text: "Person"},
+
 ]
 const platforms = [
     {value:'pc', text: "PC (Windows)"},
