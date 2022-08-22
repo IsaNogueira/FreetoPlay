@@ -24,6 +24,7 @@ Ao clicar em recomendar, o algoritmo retorna um array aleátorio dos ids que voc
   * Filtrar por mais de uma categoria
   * Sortear randomicamente um jogo entre todos do array recebido
   * Bater com todos os requisitos 
+  * Retornar erro quando nenhum dos requisitos forem atendidos
 
 O projeto foi feito também com dotnet e RestSharp, porém decidi por seguir com JS por achar mais seguro o ambiente web.
 
